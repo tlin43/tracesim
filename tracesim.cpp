@@ -913,8 +913,10 @@ int main (int argc, char ** argv)
   ifstream trace_file;
   ofstream trace_file2;
 
-  int isrd, coreid, addr, usetime;
-  std::map<int, int> usage;
+  int isrd, coreid, addr, pc, usetime;
+  int counter = 0;
+  std::vector<int> access;
+  std::map<int, std::vector<int> > usage;
   usage.clear();
  
   // get input arguments
@@ -933,16 +935,16 @@ int main (int argc, char ** argv)
   // init data structure
   cache_init();
   
-  
+  counter = 0;
   while(1)
   {
     // read one line from trace file
-    trace_file>>isrd>>coreid>>addr>>usetime;
+    trace_file>>isrd>>coreid>>addr>>pc;
     if (!trace_file.good())
     {
       break;
     }
-    
+    access.push_back(0);
     // verify the sanity of data
     if (!sanity_check(isrd, coreid, addr))
     {
@@ -951,7 +953,7 @@ int main (int argc, char ** argv)
     }
     //cout<<"isrd: "<<isrd<<" coreid: "<<coreid<<" addr: "<<addr<<" usetime: "<<usetime<<endl;
 
-
+/*
     if (virtualsets)
       virtualsets->access_update((unsigned int)addr);
     
@@ -965,20 +967,25 @@ int main (int argc, char ** argv)
         if (dramcache)
             dramcache->cache_access(addr, isrd, coreid, usetime);
     }
-
+*/
 
     
         
-/*    
+    
 //==========address profiling=========        
     if(usage.find(addr) == usage.end()) {
-        usage[addr] = 1;
+        usage[addr].push_back(1);
+        usage[addr].push_back(counter);
     }
     else{
-        usage[addr]++;
+        usage[addr].front()++;
+        access[usage[addr].back()] = counter - usage[addr].back();
+        usage[addr].back() = counter;
+
     }
+    counter++;
 //==========end address profiling=====
-*/
+
 
 
     //     else if (alloycache)
@@ -993,7 +1000,7 @@ int main (int argc, char ** argv)
   
   
 //=========profiling write file==================  
-/*  
+  
   trace_file.open(TRACE_FILE.c_str());
   if (! trace_file.is_open())
   {
@@ -1002,21 +1009,23 @@ int main (int argc, char ** argv)
   }
   TRACE_FILE.append("_usage");
   trace_file2.open(TRACE_FILE.c_str());
+  counter = 0;
   while(1) 
   {
-    trace_file>>isrd>>coreid>>addr;
+    trace_file>>isrd>>coreid>>addr>>pc;
     if (!trace_file.good())
     {
       break;
     }
 
-    trace_file2<<isrd<<" "<<coreid<<" "<<addr<<" "<<usage[addr]<<endl;
+    trace_file2<<isrd<<setw(3)<<coreid<<setw(10)<<addr<<setw(12)<<pc<<setw(6)<<usage[addr].front()<<setw(10)<<access[counter]<<endl;
     //usage[addr]--;
+    counter++;
 
   }
   trace_file.close();
   trace_file2.close();
-*/
+
 //=========end profiling======================
 
 

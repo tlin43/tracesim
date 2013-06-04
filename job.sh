@@ -42,16 +42,16 @@ TRACE_FILE=(
 for i in {0..35}
 do
 	echo "#PBS -N ${TRACE_FILE[$i]}" >> ${TRACE_FILE[$i]}.pbs
-	echo "#PBS -o /nv/hp20/tlin43/data/tracesim/${TRACE_FILE[$i]}.output" >> ${TRACE_FILE[$i]}.pbs
+	echo "#PBS -o /nv/hp20/tlin43/tracesim/pbs_out/${TRACE_FILE[$i]}.output" >> ${TRACE_FILE[$i]}.pbs
 	echo "#PBS -q eceforce-6" >> ${TRACE_FILE[$i]}.pbs
 	echo "#PBS -l pmem=2gb" >> ${TRACE_FILE[$i]}.pbs
 	echo "#PBS -j oe" >> ${TRACE_FILE[$i]}.pbs
 	echo "#PBS -l nodes=1:ppn=1" >> ${TRACE_FILE[$i]}.pbs
 	echo "#PBS -l walltime=1:00:00" >> ${TRACE_FILE[$i]}.pbs
 
-	echo "./tracesim.o --cache-size 256 --cache-assoc 32 --core-num 8 --scheme 0 --trace-file ../trace-with-eip-and-ifetch/${TRACE_FILE[$i]}.dramcache_trace --output-file ./output/${TRACE_FILE[$i]}_32way.out" >> ${TRACE_FILE[$i]}.pbs
+	echo "./tracesim.o --cache-size 256 --cache-assoc 32 --core-num 8 --scheme 0 --trace-file /nv/hp20/tlin43/data/trace-with-eip-and-ifetch/${TRACE_FILE[$i]}.dramcache_trace --output-file ./nv/hp20/tlin43/tracesim/output/${TRACE_FILE[$i]}_32way.out" >> ${TRACE_FILE[$i]}.pbs
 
-	qsub ${TRACE_FILE[$i]}.pbs
+	
 
 #	./tracesim.o --cache-size 256 --cache-assoc 1  --core-num 8 --scheme 0 --trace-file ../trace-with-eip-and-ifetch/${TRACE_FILE[$i]}.dramcache_trace --output-file ./output/${TRACE_FILE[$i]}_01way.out
 #	./tracesim.o --cache-size 256 --cache-assoc 32 --core-num 8 --scheme 1 --trace-file ../trace-with-eip-and-ifetch/${TRACE_FILE[$i]}.dramcache_trace --output-file ./output/${TRACE_FILE[$i]}_32way_bypass0.out
@@ -59,5 +59,8 @@ do
 
 done
 
-
+for i in {0..35}
+do
+	qsub ${TRACE_FILE[$i]}.pbs
+done
 

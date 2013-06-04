@@ -1009,8 +1009,8 @@ int main (int argc, char ** argv)
     cout<<"Trace File: fail to open"<<endl;
     assert(0);
   }
-  TRACE_FILE.append("_usage");
-  trace_file2.open(TRACE_FILE.c_str());
+  //TRACE_FILE.append("_usage");
+  trace_file2.open(OUTPUT_FILE.c_str());
   counter = 0;
   while(1) 
   {

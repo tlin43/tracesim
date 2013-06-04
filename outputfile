@@ -1,0 +1,2592 @@
+bwaves-bwaves-bwaves-bwaves-bwaves-bwaves-bwaves-bwaves_01way.out:
+Access#: 18292888
+zero reuse access#: 0
+    Write#: 919982
+    Read# : 17372906
+Hit#: 1375451
+    Hit rate# : 0.0751905
+    Read Hit# : 911924
+    Write Hit#: 463527
+Miss#: 16917437
+    Read Miss# : 16460982
+    Write Miss#: 456455
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12723133
+    DoA Eviction#   : 12013771
+         Peak Dirty#: 576546
+Total Evicted Dirty#: 343438
+
+bwaves-bwaves-bwaves-bwaves-bwaves-bwaves-bwaves-bwaves_01way_bypass0.out:
+Access#: 2291018
+zero reuse access#: 16001870
+    Write#: 916733
+    Read# : 1374285
+Hit#: 1375697
+    Hit rate# : 0.600474
+    Read Hit# : 912170
+    Write Hit#: 463527
+Miss#: 915321
+    Read Miss# : 462115
+    Write Miss#: 453206
+    Compulsory Miss#: 829351
+    Conflict Miss#  : 85970
+    DoA Eviction#   : 3800
+         Peak Dirty#: 892540
+Total Evicted Dirty#: 21270
+
+bwaves-bwaves-bwaves-bwaves-bwaves-bwaves-bwaves-bwaves_32way.out:
+Access#: 18292888
+zero reuse access#: 0
+    Write#: 919982
+    Read# : 17372906
+Hit#: 1380251
+    Hit rate# : 0.0754529
+    Read Hit# : 916267
+    Write Hit#: 463984
+Miss#: 16912637
+    Read Miss# : 16456639
+    Write Miss#: 455998
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12718333
+    DoA Eviction#   : 12010197
+         Peak Dirty#: 577032
+Total Evicted Dirty#: 342952
+
+bwaves-bwaves-bwaves-bwaves-bwaves-bwaves-bwaves-bwaves_32way_bypass0.out:
+Access#: 2291018
+zero reuse access#: 16001870
+    Write#: 916733
+    Read# : 1374285
+Hit#: 1380823
+    Hit rate# : 0.602712
+    Read Hit# : 916833
+    Write Hit#: 463990
+Miss#: 910195
+    Read Miss# : 457452
+    Write Miss#: 452743
+    Compulsory Miss#: 829742
+    Conflict Miss#  : 80453
+    DoA Eviction#   : 95
+         Peak Dirty#: 893004
+Total Evicted Dirty#: 20806
+
+bwaves-bwaves-bwaves-bwaves-lbm-lbm-lbm-lbm_01way.out:
+Access#: 27373320
+zero reuse access#: 0
+    Write#: 12888236
+    Read# : 14485084
+Hit#: 10838452
+    Hit rate# : 0.395949
+    Read Hit# : 666103
+    Write Hit#: 10172349
+Miss#: 16534868
+    Read Miss# : 13818981
+    Write Miss#: 2715887
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12340564
+    DoA Eviction#   : 10022174
+         Peak Dirty#: 10822111
+Total Evicted Dirty#: 2066125
+
+bwaves-bwaves-bwaves-bwaves-lbm-lbm-lbm-lbm_01way_bypass0.out:
+Access#: 13868381
+zero reuse access#: 13504939
+    Write#: 12872911
+    Read# : 995470
+Hit#: 10838587
+    Hit rate# : 0.781532
+    Read Hit# : 666237
+    Write Hit#: 10172350
+Miss#: 3029794
+    Read Miss# : 329233
+    Write Miss#: 2700561
+    Compulsory Miss#: 2300198
+    Conflict Miss#  : 729596
+    DoA Eviction#   : 4501
+         Peak Dirty#: 12173254
+Total Evicted Dirty#: 649192
+
+bwaves-bwaves-bwaves-bwaves-lbm-lbm-lbm-lbm_32way.out:
+Access#: 27373320
+zero reuse access#: 0
+    Write#: 12888236
+    Read# : 14485084
+Hit#: 10843583
+    Hit rate# : 0.396137
+    Read Hit# : 671030
+    Write Hit#: 10172553
+Miss#: 16529737
+    Read Miss# : 13814054
+    Write Miss#: 2715683
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12335433
+    DoA Eviction#   : 10018294
+         Peak Dirty#: 10822366
+Total Evicted Dirty#: 2065870
+
+bwaves-bwaves-bwaves-bwaves-lbm-lbm-lbm-lbm_32way_bypass0.out:
+Access#: 13868381
+zero reuse access#: 13504939
+    Write#: 12872911
+    Read# : 995470
+Hit#: 10843979
+    Hit rate# : 0.781921
+    Read Hit# : 671422
+    Write Hit#: 10172557
+Miss#: 3024402
+    Read Miss# : 324048
+    Write Miss#: 2700354
+    Compulsory Miss#: 2300492
+    Conflict Miss#  : 723910
+    DoA Eviction#   : 454
+         Peak Dirty#: 12173401
+Total Evicted Dirty#: 649045
+
+bwaves-bwaves-bwaves-bwaves-libquantum-libquantum-libquantum-libquantum_01way.out:
+Access#: 23104810
+zero reuse access#: 0
+    Write#: 4129241
+    Read# : 18975569
+Hit#: 6151465
+    Hit rate# : 0.266242
+    Read Hit# : 2326657
+    Write Hit#: 3824808
+Miss#: 16953345
+    Read Miss# : 16648912
+    Write Miss#: 304433
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12759041
+    DoA Eviction#   : 8766914
+         Peak Dirty#: 1751630
+Total Evicted Dirty#: 2864217
+
+bwaves-bwaves-bwaves-bwaves-libquantum-libquantum-libquantum-libquantum_01way_bypass0.out:
+Access#: 12435942
+zero reuse access#: 10668868
+    Write#: 4123715
+    Read# : 8312227
+Hit#: 8692848
+    Hit rate# : 0.69901
+    Read Hit# : 4868034
+    Write Hit#: 3824814
+Miss#: 3743094
+    Read Miss# : 3444193
+    Write Miss#: 298901
+    Compulsory Miss#: 2288004
+    Conflict Miss#  : 1455090
+    DoA Eviction#   : 662413
+         Peak Dirty#: 3440155
+Total Evicted Dirty#: 681452
+
+bwaves-bwaves-bwaves-bwaves-libquantum-libquantum-libquantum-libquantum_32way.out:
+Access#: 23104810
+zero reuse access#: 0
+    Write#: 4129241
+    Read# : 18975569
+Hit#: 6151334
+    Hit rate# : 0.266236
+    Read Hit# : 2327485
+    Write Hit#: 3823849
+Miss#: 16953476
+    Read Miss# : 16648084
+    Write Miss#: 305392
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12759172
+    DoA Eviction#   : 8769301
+         Peak Dirty#: 1751735
+Total Evicted Dirty#: 2864975
+
+bwaves-bwaves-bwaves-bwaves-libquantum-libquantum-libquantum-libquantum_32way_bypass0.out:
+Access#: 12435942
+zero reuse access#: 10668868
+    Write#: 4123715
+    Read# : 8312227
+Hit#: 8692650
+    Hit rate# : 0.698994
+    Read Hit# : 4868103
+    Write Hit#: 3824547
+Miss#: 3743292
+    Read Miss# : 3444124
+    Write Miss#: 299168
+    Compulsory Miss#: 2288152
+    Conflict Miss#  : 1455140
+    DoA Eviction#   : 661541
+         Peak Dirty#: 3437831
+Total Evicted Dirty#: 683776
+
+bwaves-bwaves-bwaves-bwaves-mcf-mcf-mcf-mcf_01way.out:
+Access#: 25735950
+zero reuse access#: 0
+    Write#: 2272107
+    Read# : 23463843
+Hit#: 8561378
+    Hit rate# : 0.332662
+    Read Hit# : 6599153
+    Write Hit#: 1962225
+Miss#: 17174572
+    Read Miss# : 16864690
+    Write Miss#: 309882
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12980268
+    DoA Eviction#   : 11444488
+         Peak Dirty#: 1484446
+Total Evicted Dirty#: 787663
+
+bwaves-bwaves-bwaves-bwaves-mcf-mcf-mcf-mcf_01way_bypass0.out:
+Access#: 10725993
+zero reuse access#: 15009957
+    Write#: 2264124
+    Read# : 8461869
+Hit#: 9564626
+    Hit rate# : 0.891724
+    Read Hit# : 7600534
+    Write Hit#: 1964092
+Miss#: 1161367
+    Read Miss# : 861335
+    Write Miss#: 300032
+    Compulsory Miss#: 909074
+    Conflict Miss#  : 252293
+    DoA Eviction#   : 105795
+         Peak Dirty#: 2180539
+Total Evicted Dirty#: 83508
+
+bwaves-bwaves-bwaves-bwaves-mcf-mcf-mcf-mcf_32way.out:
+Access#: 25735950
+zero reuse access#: 0
+    Write#: 2272107
+    Read# : 23463843
+Hit#: 8395818
+    Hit rate# : 0.326229
+    Read Hit# : 6451903
+    Write Hit#: 1943915
+Miss#: 17340132
+    Read Miss# : 17011940
+    Write Miss#: 328192
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 13145828
+    DoA Eviction#   : 11541634
+         Peak Dirty#: 1412529
+Total Evicted Dirty#: 859580
+
+bwaves-bwaves-bwaves-bwaves-mcf-mcf-mcf-mcf_32way_bypass0.out:
+Access#: 10725993
+zero reuse access#: 15009957
+    Write#: 2264124
+    Read# : 8461869
+Hit#: 9373836
+    Hit rate# : 0.873936
+    Read Hit# : 7422924
+    Write Hit#: 1950912
+Miss#: 1352157
+    Read Miss# : 1038945
+    Write Miss#: 313212
+    Compulsory Miss#: 912032
+    Conflict Miss#  : 440125
+    DoA Eviction#   : 143082
+         Peak Dirty#: 2057232
+Total Evicted Dirty#: 206889
+
+bwaves-bwaves-bwaves-bwaves-milc-milc-milc-milc_01way.out:
+Access#: 17859806
+zero reuse access#: 0
+    Write#: 2704691
+    Read# : 15155115
+Hit#: 2364162
+    Hit rate# : 0.132373
+    Read Hit# : 694973
+    Write Hit#: 1669189
+Miss#: 15495644
+    Read Miss# : 14460142
+    Write Miss#: 1035502
+    Compulsory Miss#: 4170210
+    Conflict Miss#  : 11325434
+    DoA Eviction#   : 9796656
+         Peak Dirty#: 1470272
+Total Evicted Dirty#: 1234420
+
+bwaves-bwaves-bwaves-bwaves-milc-milc-milc-milc_01way_bypass0.out:
+Access#: 7238302
+zero reuse access#: 10621504
+    Write#: 2685222
+    Read# : 4553080
+Hit#: 3125957
+    Hit rate# : 0.431863
+    Read Hit# : 1454447
+    Write Hit#: 1671510
+Miss#: 4112345
+    Read Miss# : 3098633
+    Write Miss#: 1013712
+    Compulsory Miss#: 2472140
+    Conflict Miss#  : 1640205
+    DoA Eviction#   : 854336
+         Peak Dirty#: 2076169
+Total Evicted Dirty#: 609054
+
+bwaves-bwaves-bwaves-bwaves-milc-milc-milc-milc_32way.out:
+Access#: 17859806
+zero reuse access#: 0
+    Write#: 2704691
+    Read# : 15155115
+Hit#: 2335365
+    Hit rate# : 0.130761
+    Read Hit# : 676969
+    Write Hit#: 1658396
+Miss#: 15524441
+    Read Miss# : 14478146
+    Write Miss#: 1046295
+    Compulsory Miss#: 4193882
+    Conflict Miss#  : 11330559
+    DoA Eviction#   : 9759408
+         Peak Dirty#: 1444357
+Total Evicted Dirty#: 1260335
+
+bwaves-bwaves-bwaves-bwaves-milc-milc-milc-milc_32way_bypass0.out:
+Access#: 7238302
+zero reuse access#: 10621504
+    Write#: 2685222
+    Read# : 4553080
+Hit#: 3417846
+    Hit rate# : 0.472189
+    Read Hit# : 1752496
+    Write Hit#: 1665350
+Miss#: 3820456
+    Read Miss# : 2800584
+    Write Miss#: 1019872
+    Compulsory Miss#: 2744436
+    Conflict Miss#  : 1076020
+    DoA Eviction#   : 359129
+         Peak Dirty#: 2170013
+Total Evicted Dirty#: 515210
+
+bwaves-bwaves-bwaves-bwaves-soplex-soplex-soplex-soplex_01way.out:
+Access#: 21499081
+zero reuse access#: 0
+    Write#: 3061308
+    Read# : 18437773
+Hit#: 4766156
+    Hit rate# : 0.221691
+    Read Hit# : 2519970
+    Write Hit#: 2246186
+Miss#: 16732925
+    Read Miss# : 15917803
+    Write Miss#: 815122
+    Compulsory Miss#: 4194244
+    Conflict Miss#  : 12538681
+    DoA Eviction#   : 10575517
+         Peak Dirty#: 1909681
+Total Evicted Dirty#: 1598577
+
+bwaves-bwaves-bwaves-bwaves-soplex-soplex-soplex-soplex_01way_bypass0.out:
+Access#: 7852081
+zero reuse access#: 13647000
+    Write#: 3056912
+    Read# : 4795169
+Hit#: 5477838
+    Hit rate# : 0.697629
+    Read Hit# : 2890630
+    Write Hit#: 2587208
+Miss#: 2374243
+    Read Miss# : 1904539
+    Write Miss#: 469704
+    Compulsory Miss#: 1793905
+    Conflict Miss#  : 580338
+    DoA Eviction#   : 163458
+         Peak Dirty#: 2708553
+Total Evicted Dirty#: 348354
+
+bwaves-bwaves-bwaves-bwaves-soplex-soplex-soplex-soplex_32way.out:
+Access#: 21499081
+zero reuse access#: 0
+    Write#: 3061308
+    Read# : 18437773
+Hit#: 4757943
+    Hit rate# : 0.221309
+    Read Hit# : 2512888
+    Write Hit#: 2245055
+Miss#: 16741138
+    Read Miss# : 15924885
+    Write Miss#: 816253
+    Compulsory Miss#: 4194299
+    Conflict Miss#  : 12546839
+    DoA Eviction#   : 10586519
+         Peak Dirty#: 1900423
+Total Evicted Dirty#: 1599070
+
+bwaves-bwaves-bwaves-bwaves-soplex-soplex-soplex-soplex_32way_bypass0.out:
+Access#: 7852081
+zero reuse access#: 13647000
+    Write#: 3056912
+    Read# : 4795169
+Hit#: 5472032
+    Hit rate# : 0.696889
+    Read Hit# : 2884673
+    Write Hit#: 2587359
+Miss#: 2380049
+    Read Miss# : 1910496
+    Write Miss#: 469553
+    Compulsory Miss#: 1797493
+    Conflict Miss#  : 582556
+    DoA Eviction#   : 156380
+         Peak Dirty#: 2696302
+Total Evicted Dirty#: 360609
+
+bwaves-bwaves-mcf-mcf-libquantum-libquantum-lbm-lbm_01way.out:
+Access#: 30273033
+zero reuse access#: 0
+    Write#: 10350513
+    Read# : 19922520
+Hit#: 13481660
+    Hit rate# : 0.445336
+    Read Hit# : 4846175
+    Write Hit#: 8635485
+Miss#: 16791373
+    Read Miss# : 15076345
+    Write Miss#: 1715028
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12597069
+    DoA Eviction#   : 8957416
+         Peak Dirty#: 7291303
+Total Evicted Dirty#: 3059213
+
+bwaves-bwaves-mcf-mcf-libquantum-libquantum-lbm-lbm_01way_bypass0.out:
+Access#: 19623782
+zero reuse access#: 10649251
+    Write#: 10337572
+    Read# : 9286210
+Hit#: 15527813
+    Hit rate# : 0.791275
+    Read Hit# : 6886810
+    Write Hit#: 8641003
+Miss#: 4095969
+    Read Miss# : 2399400
+    Write Miss#: 1696569
+    Compulsory Miss#: 2309571
+    Conflict Miss#  : 1786398
+    DoA Eviction#   : 368607
+         Peak Dirty#: 9085406
+Total Evicted Dirty#: 1252164
+
+bwaves-bwaves-mcf-mcf-libquantum-libquantum-lbm-lbm_32way.out:
+Access#: 30273033
+zero reuse access#: 0
+    Write#: 10350513
+    Read# : 19922520
+Hit#: 13216428
+    Hit rate# : 0.436574
+    Read Hit# : 4685555
+    Write Hit#: 8530873
+Miss#: 17056605
+    Read Miss# : 15236965
+    Write Miss#: 1819640
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12862301
+    DoA Eviction#   : 9275948
+         Peak Dirty#: 7212817
+Total Evicted Dirty#: 3137699
+
+bwaves-bwaves-mcf-mcf-libquantum-libquantum-lbm-lbm_32way_bypass0.out:
+Access#: 19623782
+zero reuse access#: 10649251
+    Write#: 10337572
+    Read# : 9286210
+Hit#: 14949245
+    Hit rate# : 0.761792
+    Read Hit# : 6410182
+    Write Hit#: 8539063
+Miss#: 4674537
+    Read Miss# : 2876028
+    Write Miss#: 1798509
+    Compulsory Miss#: 2309946
+    Conflict Miss#  : 2364591
+    DoA Eviction#   : 774268
+         Peak Dirty#: 8861562
+Total Evicted Dirty#: 1476008
+
+bwaves-bwaves-mcf-mcf-milc-milc-lbm-lbm_01way.out:
+Access#: 26311541
+zero reuse access#: 0
+    Write#: 8880928
+    Read# : 17430613
+Hit#: 10381926
+    Hit rate# : 0.394577
+    Read Hit# : 3584858
+    Write Hit#: 6797068
+Miss#: 15929615
+    Read Miss# : 13845755
+    Write Miss#: 2083860
+    Compulsory Miss#: 4182003
+    Conflict Miss#  : 11747612
+    DoA Eviction#   : 9247852
+         Peak Dirty#: 6821282
+Total Evicted Dirty#: 2059647
+
+bwaves-bwaves-mcf-mcf-milc-milc-lbm-lbm_01way_bypass0.out:
+Access#: 16125502
+zero reuse access#: 10186039
+    Write#: 8851439
+    Read# : 7274063
+Hit#: 11383023
+    Hit rate# : 0.705902
+    Read Hit# : 4564348
+    Write Hit#: 6818675
+Miss#: 4742479
+    Read Miss# : 2709715
+    Write Miss#: 2032764
+    Compulsory Miss#: 2663238
+    Conflict Miss#  : 2079241
+    DoA Eviction#   : 830476
+         Peak Dirty#: 7849401
+Total Evicted Dirty#: 1002035
+
+bwaves-bwaves-mcf-mcf-milc-milc-lbm-lbm_32way.out:
+Access#: 26311541
+zero reuse access#: 0
+    Write#: 8880928
+    Read# : 17430613
+Hit#: 10183933
+    Hit rate# : 0.387052
+    Read Hit# : 3554980
+    Write Hit#: 6628953
+Miss#: 16127608
+    Read Miss# : 13875633
+    Write Miss#: 2251975
+    Compulsory Miss#: 4192912
+    Conflict Miss#  : 11934696
+    DoA Eviction#   : 9192774
+         Peak Dirty#: 6550901
+Total Evicted Dirty#: 2330027
+
+bwaves-bwaves-mcf-mcf-milc-milc-lbm-lbm_32way_bypass0.out:
+Access#: 16125502
+zero reuse access#: 10186039
+    Write#: 8851439
+    Read# : 7274063
+Hit#: 11351485
+    Hit rate# : 0.703946
+    Read Hit# : 4686842
+    Write Hit#: 6664643
+Miss#: 4774017
+    Read Miss# : 2587221
+    Write Miss#: 2186796
+    Compulsory Miss#: 2823028
+    Conflict Miss#  : 1950989
+    DoA Eviction#   : 514434
+         Peak Dirty#: 7614670
+Total Evicted Dirty#: 1236759
+
+bwaves-bwaves-mcf-mcf-milc-milc-libquantum-libquantum_01way.out:
+Access#: 24503288
+zero reuse access#: 0
+    Write#: 4651522
+    Read# : 19851766
+Hit#: 8448290
+    Hit rate# : 0.344782
+    Read Hit# : 4519544
+    Write Hit#: 3928746
+Miss#: 16054998
+    Read Miss# : 15332222
+    Write Miss#: 722776
+    Compulsory Miss#: 4174843
+    Conflict Miss#  : 11880155
+    DoA Eviction#   : 8783140
+         Peak Dirty#: 2200439
+Total Evicted Dirty#: 2463950
+
+bwaves-bwaves-mcf-mcf-milc-milc-libquantum-libquantum_01way_bypass0.out:
+Access#: 15789640
+zero reuse access#: 8713648
+    Write#: 4627461
+    Read# : 11162179
+Hit#: 10254720
+    Hit rate# : 0.649459
+    Read Hit# : 6325026
+    Write Hit#: 3929694
+Miss#: 5534920
+    Read Miss# : 4837153
+    Write Miss#: 697767
+    Compulsory Miss#: 2580943
+    Conflict Miss#  : 2953977
+    DoA Eviction#   : 1391172
+         Peak Dirty#: 3392461
+Total Evicted Dirty#: 1235162
+
+bwaves-bwaves-mcf-mcf-milc-milc-libquantum-libquantum_32way.out:
+Access#: 24503288
+zero reuse access#: 0
+    Write#: 4651522
+    Read# : 19851766
+Hit#: 7585800
+    Hit rate# : 0.309583
+    Read Hit# : 3747105
+    Write Hit#: 3838695
+Miss#: 16917488
+    Read Miss# : 16104661
+    Write Miss#: 812827
+    Compulsory Miss#: 4187071
+    Conflict Miss#  : 12730417
+    DoA Eviction#   : 9589339
+         Peak Dirty#: 2016580
+Total Evicted Dirty#: 2648825
+
+bwaves-bwaves-mcf-mcf-milc-milc-libquantum-libquantum_32way_bypass0.out:
+Access#: 15789640
+zero reuse access#: 8713648
+    Write#: 4627461
+    Read# : 11162179
+Hit#: 8985680
+    Hit rate# : 0.569087
+    Read Hit# : 5114427
+    Write Hit#: 3871253
+Miss#: 6803960
+    Read Miss# : 6047752
+    Write Miss#: 756208
+    Compulsory Miss#: 2746749
+    Conflict Miss#  : 4057211
+    DoA Eviction#   : 2005335
+         Peak Dirty#: 2842140
+Total Evicted Dirty#: 1789763
+
+bwaves-bwaves-mcf-mcf-milc-milc-soplex-soplex_01way.out:
+Access#: 23456756
+zero reuse access#: 0
+    Write#: 3823129
+    Read# : 19633627
+Hit#: 7143343
+    Hit rate# : 0.304532
+    Read Hit# : 4229281
+    Write Hit#: 2914062
+Miss#: 16313413
+    Read Miss# : 15404346
+    Write Miss#: 909067
+    Compulsory Miss#: 4165862
+    Conflict Miss#  : 12147551
+    DoA Eviction#   : 9840824
+         Peak Dirty#: 2039073
+Total Evicted Dirty#: 1784056
+
+bwaves-bwaves-mcf-mcf-milc-milc-soplex-soplex_01way_bypass0.out:
+Access#: 12697424
+zero reuse access#: 10759332
+    Write#: 3802636
+    Read# : 8894788
+Hit#: 8488866
+    Hit rate# : 0.66855
+    Read Hit# : 5490565
+    Write Hit#: 2998301
+Miss#: 4208558
+    Read Miss# : 3404223
+    Write Miss#: 804335
+    Compulsory Miss#: 2397017
+    Conflict Miss#  : 1811541
+    DoA Eviction#   : 876840
+         Peak Dirty#: 3091915
+Total Evicted Dirty#: 710718
+
+bwaves-bwaves-mcf-mcf-milc-milc-soplex-soplex_32way.out:
+Access#: 23456756
+zero reuse access#: 0
+    Write#: 3823129
+    Read# : 19633627
+Hit#: 6973576
+    Hit rate# : 0.297295
+    Read Hit# : 4089778
+    Write Hit#: 2883798
+Miss#: 16483180
+    Read Miss# : 15543849
+    Write Miss#: 939331
+    Compulsory Miss#: 4188530
+    Conflict Miss#  : 12294650
+    DoA Eviction#   : 9891903
+         Peak Dirty#: 1925978
+Total Evicted Dirty#: 1897151
+
+bwaves-bwaves-mcf-mcf-milc-milc-soplex-soplex_32way_bypass0.out:
+Access#: 12697424
+zero reuse access#: 10759332
+    Write#: 3802636
+    Read# : 8894788
+Hit#: 8476007
+    Hit rate# : 0.667538
+    Read Hit# : 5488848
+    Write Hit#: 2987159
+Miss#: 4221417
+    Read Miss# : 3405940
+    Write Miss#: 815477
+    Compulsory Miss#: 2589069
+    Conflict Miss#  : 1632348
+    DoA Eviction#   : 600622
+         Peak Dirty#: 2958655
+Total Evicted Dirty#: 843977
+
+bwaves-bwaves-mcf-mcf-soplex-soplex-lbm-lbm_01way.out:
+Access#: 29124480
+zero reuse access#: 0
+    Write#: 9257801
+    Read# : 19866679
+Hit#: 11970318
+    Hit rate# : 0.411005
+    Read Hit# : 4540056
+    Write Hit#: 7430262
+Miss#: 17154162
+    Read Miss# : 15326623
+    Write Miss#: 1827539
+    Compulsory Miss#: 4194165
+    Conflict Miss#  : 12959997
+    DoA Eviction#   : 10213650
+         Peak Dirty#: 6938188
+Total Evicted Dirty#: 2319613
+
+bwaves-bwaves-mcf-mcf-soplex-soplex-lbm-lbm_01way_bypass0.out:
+Access#: 16045454
+zero reuse access#: 13079026
+    Write#: 9245112
+    Read# : 6800342
+Hit#: 12804917
+    Hit rate# : 0.79804
+    Read Hit# : 5255988
+    Write Hit#: 7548929
+Miss#: 3240537
+    Read Miss# : 1544354
+    Write Miss#: 1696183
+    Compulsory Miss#: 2094695
+    Conflict Miss#  : 1145842
+    DoA Eviction#   : 284557
+         Peak Dirty#: 8489930
+Total Evicted Dirty#: 755165
+
+bwaves-bwaves-mcf-mcf-soplex-soplex-lbm-lbm_32way.out:
+Access#: 29124480
+zero reuse access#: 0
+    Write#: 9257801
+    Read# : 19866679
+Hit#: 11776660
+    Hit rate# : 0.404356
+    Read Hit# : 4431672
+    Write Hit#: 7344988
+Miss#: 17347820
+    Read Miss# : 15435007
+    Write Miss#: 1912813
+    Compulsory Miss#: 4194265
+    Conflict Miss#  : 13153555
+    DoA Eviction#   : 10375576
+         Peak Dirty#: 6845084
+Total Evicted Dirty#: 2412717
+
+bwaves-bwaves-mcf-mcf-soplex-soplex-lbm-lbm_32way_bypass0.out:
+Access#: 16045454
+zero reuse access#: 13079026
+    Write#: 9245112
+    Read# : 6800342
+Hit#: 12622698
+    Hit rate# : 0.786684
+    Read Hit# : 5151334
+    Write Hit#: 7471364
+Miss#: 3422756
+    Read Miss# : 1649008
+    Write Miss#: 1773748
+    Compulsory Miss#: 2100221
+    Conflict Miss#  : 1322535
+    DoA Eviction#   : 369358
+         Peak Dirty#: 8360234
+Total Evicted Dirty#: 884861
+
+bwaves-bwaves-mcf-mcf-soplex-soplex-libquantum-libquantum_01way.out:
+Access#: 26741212
+zero reuse access#: 0
+    Write#: 4484844
+    Read# : 22256368
+Hit#: 9485459
+    Hit rate# : 0.354713
+    Read Hit# : 5427054
+    Write Hit#: 4058405
+Miss#: 17255753
+    Read Miss# : 16829314
+    Write Miss#: 426439
+    Compulsory Miss#: 4193437
+    Conflict Miss#  : 13062316
+    DoA Eviction#   : 9797227
+         Peak Dirty#: 2021176
+Total Evicted Dirty#: 2663045
+
+bwaves-bwaves-mcf-mcf-soplex-soplex-libquantum-libquantum_01way_bypass0.out:
+Access#: 15348499
+zero reuse access#: 11392713
+    Write#: 4477091
+    Read# : 10871408
+Hit#: 11887956
+    Hit rate# : 0.774535
+    Read Hit# : 7711766
+    Write Hit#: 4176190
+Miss#: 3460543
+    Read Miss# : 3159642
+    Write Miss#: 300901
+    Compulsory Miss#: 2014520
+    Conflict Miss#  : 1446023
+    DoA Eviction#   : 520109
+         Peak Dirty#: 3733079
+Total Evicted Dirty#: 744037
+
+bwaves-bwaves-mcf-mcf-soplex-soplex-libquantum-libquantum_32way.out:
+Access#: 26741212
+zero reuse access#: 0
+    Write#: 4484844
+    Read# : 22256368
+Hit#: 9085212
+    Hit rate# : 0.339746
+    Read Hit# : 5061700
+    Write Hit#: 4023512
+Miss#: 17656000
+    Read Miss# : 17194668
+    Write Miss#: 461332
+    Compulsory Miss#: 4193799
+    Conflict Miss#  : 13462201
+    DoA Eviction#   : 10240339
+         Peak Dirty#: 1984024
+Total Evicted Dirty#: 2712579
+
+bwaves-bwaves-mcf-mcf-soplex-soplex-libquantum-libquantum_32way_bypass0.out:
+Access#: 15348499
+zero reuse access#: 11392713
+    Write#: 4477091
+    Read# : 10871408
+Hit#: 11160712
+    Hit rate# : 0.727153
+    Read Hit# : 7011034
+    Write Hit#: 4149678
+Miss#: 4187787
+    Read Miss# : 3860374
+    Write Miss#: 327413
+    Compulsory Miss#: 2020034
+    Conflict Miss#  : 2167753
+    DoA Eviction#   : 956772
+         Peak Dirty#: 3438027
+Total Evicted Dirty#: 1039119
+
+bwaves-bwaves-milc-milc-libquantum-libquantum-lbm-lbm_01way.out:
+Access#: 25345484
+zero reuse access#: 0
+    Write#: 9986149
+    Read# : 15359335
+Hit#: 9596444
+    Hit rate# : 0.378625
+    Read Hit# : 1657746
+    Write Hit#: 7938698
+Miss#: 15749040
+    Read Miss# : 13701589
+    Write Miss#: 2047451
+    Compulsory Miss#: 4182006
+    Conflict Miss#  : 11567034
+    DoA Eviction#   : 8005074
+         Peak Dirty#: 6863701
+Total Evicted Dirty#: 3122448
+
+bwaves-bwaves-milc-milc-libquantum-libquantum-lbm-lbm_01way_bypass0.out:
+Access#: 17622508
+zero reuse access#: 7722976
+    Write#: 9956034
+    Read# : 7666474
+Hit#: 11115606
+    Hit rate# : 0.630762
+    Read Hit# : 3170895
+    Write Hit#: 7944711
+Miss#: 6506902
+    Read Miss# : 4495579
+    Write Miss#: 2011323
+    Compulsory Miss#: 3045109
+    Conflict Miss#  : 3461793
+    DoA Eviction#   : 1348838
+         Peak Dirty#: 8120526
+Total Evicted Dirty#: 1835508
+
+bwaves-bwaves-milc-milc-libquantum-libquantum-lbm-lbm_32way.out:
+Access#: 25345484
+zero reuse access#: 0
+    Write#: 9986149
+    Read# : 15359335
+Hit#: 8807590
+    Hit rate# : 0.347501
+    Read Hit# : 1013288
+    Write Hit#: 7794302
+Miss#: 16537894
+    Read Miss# : 14346047
+    Write Miss#: 2191847
+    Compulsory Miss#: 4191589
+    Conflict Miss#  : 12346305
+    DoA Eviction#   : 8737074
+         Peak Dirty#: 6692991
+Total Evicted Dirty#: 3293158
+
+bwaves-bwaves-milc-milc-libquantum-libquantum-lbm-lbm_32way_bypass0.out:
+Access#: 17622508
+zero reuse access#: 7722976
+    Write#: 9956034
+    Read# : 7666474
+Hit#: 9960112
+    Hit rate# : 0.565193
+    Read Hit# : 2129772
+    Write Hit#: 7830340
+Miss#: 7662396
+    Read Miss# : 5536702
+    Write Miss#: 2125694
+    Compulsory Miss#: 3161101
+    Conflict Miss#  : 4501295
+    DoA Eviction#   : 1911617
+         Peak Dirty#: 7620423
+Total Evicted Dirty#: 2335611
+
+bwaves-bwaves-milc-milc-soplex-soplex-lbm-lbm_01way.out:
+Access#: 24120317
+zero reuse access#: 0
+    Write#: 8869114
+    Read# : 15251203
+Hit#: 8108300
+    Hit rate# : 0.336161
+    Read Hit# : 1409122
+    Write Hit#: 6699178
+Miss#: 16012017
+    Read Miss# : 13842081
+    Write Miss#: 2169936
+    Compulsory Miss#: 4167704
+    Conflict Miss#  : 11844313
+    DoA Eviction#   : 9113484
+         Peak Dirty#: 6471344
+Total Evicted Dirty#: 2397770
+
+bwaves-bwaves-milc-milc-soplex-soplex-lbm-lbm_01way_bypass0.out:
+Access#: 14208018
+zero reuse access#: 9912299
+    Write#: 8844334
+    Read# : 5363684
+Hit#: 8950193
+    Hit rate# : 0.62994
+    Read Hit# : 2166344
+    Write Hit#: 6783849
+Miss#: 5257825
+    Read Miss# : 3197340
+    Write Miss#: 2060485
+    Compulsory Miss#: 2869965
+    Conflict Miss#  : 2387860
+    DoA Eviction#   : 955455
+         Peak Dirty#: 7619523
+Total Evicted Dirty#: 1224809
+
+bwaves-bwaves-milc-milc-soplex-soplex-lbm-lbm_32way.out:
+Access#: 24120317
+zero reuse access#: 0
+    Write#: 8869114
+    Read# : 15251203
+Hit#: 7984717
+    Hit rate# : 0.331037
+    Read Hit# : 1380606
+    Write Hit#: 6604111
+Miss#: 16135600
+    Read Miss# : 13870597
+    Write Miss#: 2265003
+    Compulsory Miss#: 4188604
+    Conflict Miss#  : 11946996
+    DoA Eviction#   : 9082214
+         Peak Dirty#: 6360579
+Total Evicted Dirty#: 2508535
+
+bwaves-bwaves-milc-milc-soplex-soplex-lbm-lbm_32way_bypass0.out:
+Access#: 14208018
+zero reuse access#: 9912299
+    Write#: 8844334
+    Read# : 5363684
+Hit#: 8978905
+    Hit rate# : 0.63196
+    Read Hit# : 2270662
+    Write Hit#: 6708243
+Miss#: 5229113
+    Read Miss# : 3093022
+    Write Miss#: 2136091
+    Compulsory Miss#: 3019524
+    Conflict Miss#  : 2209589
+    DoA Eviction#   : 678434
+         Peak Dirty#: 7529197
+Total Evicted Dirty#: 1315135
+
+bwaves-bwaves-milc-milc-soplex-soplex-libquantum-libquantum_01way.out:
+Access#: 22386986
+zero reuse access#: 0
+    Write#: 4826822
+    Read# : 17560164
+Hit#: 6204233
+    Hit rate# : 0.277136
+    Read Hit# : 2282413
+    Write Hit#: 3921820
+Miss#: 16182753
+    Read Miss# : 15277751
+    Write Miss#: 905002
+    Compulsory Miss#: 4149419
+    Conflict Miss#  : 12033334
+    DoA Eviction#   : 8818596
+         Peak Dirty#: 2091510
+Total Evicted Dirty#: 2735353
+
+bwaves-bwaves-milc-milc-soplex-soplex-libquantum-libquantum_01way_bypass0.out:
+Access#: 13838954
+zero reuse access#: 8548032
+    Write#: 4807438
+    Read# : 9031516
+Hit#: 7855927
+    Hit rate# : 0.567668
+    Read Hit# : 3866001
+    Write Hit#: 3989926
+Miss#: 5983027
+    Read Miss# : 5165515
+    Write Miss#: 817512
+    Compulsory Miss#: 2823835
+    Conflict Miss#  : 3159192
+    DoA Eviction#   : 1511373
+         Peak Dirty#: 3408802
+Total Evicted Dirty#: 1398640
+
+bwaves-bwaves-milc-milc-soplex-soplex-libquantum-libquantum_32way.out:
+Access#: 22386986
+zero reuse access#: 0
+    Write#: 4826822
+    Read# : 17560164
+Hit#: 5510486
+    Hit rate# : 0.246147
+    Read Hit# : 1621862
+    Write Hit#: 3888624
+Miss#: 16876500
+    Read Miss# : 15938302
+    Write Miss#: 938198
+    Compulsory Miss#: 4183517
+    Conflict Miss#  : 12692983
+    DoA Eviction#   : 9506397
+         Peak Dirty#: 2000502
+Total Evicted Dirty#: 2826352
+
+bwaves-bwaves-milc-milc-soplex-soplex-libquantum-libquantum_32way_bypass0.out:
+Access#: 13838954
+zero reuse access#: 8548032
+    Write#: 4807438
+    Read# : 9031516
+Hit#: 6815119
+    Hit rate# : 0.492459
+    Read Hit# : 2836022
+    Write Hit#: 3979097
+Miss#: 7023835
+    Read Miss# : 6195494
+    Write Miss#: 828341
+    Compulsory Miss#: 2972282
+    Conflict Miss#  : 4051553
+    DoA Eviction#   : 2007638
+         Peak Dirty#: 2983262
+Total Evicted Dirty#: 1824180
+
+bwaves-bwaves-soplex-soplex-libquantum-libquantum-lbm-lbm_01way.out:
+Access#: 27889677
+zero reuse access#: 0
+    Write#: 10323330
+    Read# : 17566347
+Hit#: 11127930
+    Hit rate# : 0.398998
+    Read Hit# : 2587123
+    Write Hit#: 8540807
+Miss#: 16761747
+    Read Miss# : 14979224
+    Write Miss#: 1782523
+    Compulsory Miss#: 4194067
+    Conflict Miss#  : 12567680
+    DoA Eviction#   : 8671959
+         Peak Dirty#: 6869305
+Total Evicted Dirty#: 3454025
+
+bwaves-bwaves-soplex-soplex-libquantum-libquantum-lbm-lbm_01way_bypass0.out:
+Access#: 17439127
+zero reuse access#: 10450550
+    Write#: 10311254
+    Read# : 7127873
+Hit#: 13150674
+    Hit rate# : 0.75409
+    Read Hit# : 4479971
+    Write Hit#: 8670703
+Miss#: 4288453
+    Read Miss# : 2647902
+    Write Miss#: 1640551
+    Compulsory Miss#: 2693475
+    Conflict Miss#  : 1594978
+    DoA Eviction#   : 277850
+         Peak Dirty#: 9116812
+Total Evicted Dirty#: 1194440
+
+bwaves-bwaves-soplex-soplex-libquantum-libquantum-lbm-lbm_32way.out:
+Access#: 27889677
+zero reuse access#: 0
+    Write#: 10323330
+    Read# : 17566347
+Hit#: 10987139
+    Hit rate# : 0.39395
+    Read Hit# : 2451420
+    Write Hit#: 8535719
+Miss#: 16902538
+    Read Miss# : 15114927
+    Write Miss#: 1787611
+    Compulsory Miss#: 4194202
+    Conflict Miss#  : 12708336
+    DoA Eviction#   : 8770733
+         Peak Dirty#: 6832623
+Total Evicted Dirty#: 3490707
+
+bwaves-bwaves-soplex-soplex-libquantum-libquantum-lbm-lbm_32way_bypass0.out:
+Access#: 17439127
+zero reuse access#: 10450550
+    Write#: 10311254
+    Read# : 7127873
+Hit#: 13134391
+    Hit rate# : 0.753156
+    Read Hit# : 4467232
+    Write Hit#: 8667159
+Miss#: 4304736
+    Read Miss# : 2660641
+    Write Miss#: 1644095
+    Compulsory Miss#: 2695353
+    Conflict Miss#  : 1609383
+    DoA Eviction#   : 280590
+         Peak Dirty#: 9105277
+Total Evicted Dirty#: 1205975
+
+lbm-lbm-lbm-lbm-lbm-lbm-lbm-lbm_01way.out:
+Access#: 52928943
+zero reuse access#: 0
+    Write#: 44844698
+    Read# : 8084245
+Hit#: 36080527
+    Hit rate# : 0.681679
+    Read Hit# : 60822
+    Write Hit#: 36019705
+Miss#: 16848416
+    Read Miss# : 8023423
+    Write Miss#: 8824993
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12654112
+    DoA Eviction#   : 5927440
+         Peak Dirty#: 38115909
+Total Evicted Dirty#: 6728789
+
+lbm-lbm-lbm-lbm-lbm-lbm-lbm-lbm_01way_bypass0.out:
+Access#: 44877104
+zero reuse access#: 8051839
+    Write#: 44810079
+    Read# : 67025
+Hit#: 36080766
+    Hit rate# : 0.803991
+    Read Hit# : 61046
+    Write Hit#: 36019720
+Miss#: 8796338
+    Read Miss# : 5979
+    Write Miss#: 8790359
+    Compulsory Miss#: 3968085
+    Conflict Miss#  : 4828253
+    DoA Eviction#   : 7760
+         Peak Dirty#: 39884187
+Total Evicted Dirty#: 4822769
+
+lbm-lbm-lbm-lbm-lbm-lbm-lbm-lbm_32way.out:
+Access#: 52928943
+zero reuse access#: 0
+    Write#: 44844698
+    Read# : 8084245
+Hit#: 36083750
+    Hit rate# : 0.68174
+    Read Hit# : 64355
+    Write Hit#: 36019395
+Miss#: 16845193
+    Read Miss# : 8019890
+    Write Miss#: 8825303
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 12650889
+    DoA Eviction#   : 5923760
+         Peak Dirty#: 38115732
+Total Evicted Dirty#: 6728966
+
+lbm-lbm-lbm-lbm-lbm-lbm-lbm-lbm_32way_bypass0.out:
+Access#: 44877104
+zero reuse access#: 8051839
+    Write#: 44810079
+    Read# : 67025
+Hit#: 36084105
+    Hit rate# : 0.804065
+    Read Hit# : 64672
+    Write Hit#: 36019433
+Miss#: 8792999
+    Read Miss# : 2353
+    Write Miss#: 8790646
+    Compulsory Miss#: 3968089
+    Conflict Miss#  : 4824910
+    DoA Eviction#   : 3735
+         Peak Dirty#: 39983785
+Total Evicted Dirty#: 4823049
+
+libquantum-libquantum-libquantum-libquantum-lbm-lbm-lbm-lbm_01way.out:
+Access#: 37710501
+zero reuse access#: 0
+    Write#: 22999934
+    Read# : 14710567
+Hit#: 26189795
+    Hit rate# : 0.694496
+    Read Hit# : 7054283
+    Write Hit#: 19135512
+Miss#: 11520706
+    Read Miss# : 7656284
+    Write Miss#: 3864422
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 7326402
+    DoA Eviction#   : 2268277
+         Peak Dirty#: 17933784
+Total Evicted Dirty#: 5066150
+
+libquantum-libquantum-libquantum-libquantum-lbm-lbm-lbm-lbm_01way_bypass0.out:
+Access#: 34556799
+zero reuse access#: 3153702
+    Write#: 22980799
+    Read# : 11576000
+Hit#: 27235920
+    Hit rate# : 0.788149
+    Read Hit# : 8100403
+    Write Hit#: 19135517
+Miss#: 7320879
+    Read Miss# : 3475597
+    Write Miss#: 3845282
+    Compulsory Miss#: 3781298
+    Conflict Miss#  : 3539581
+    DoA Eviction#   : 184165
+         Peak Dirty#: 19515343
+Total Evicted Dirty#: 3373101
+
+libquantum-libquantum-libquantum-libquantum-lbm-lbm-lbm-lbm_32way.out:
+Access#: 37710501
+zero reuse access#: 0
+    Write#: 22999934
+    Read# : 14710567
+Hit#: 26168551
+    Hit rate# : 0.693933
+    Read Hit# : 7054491
+    Write Hit#: 19114060
+Miss#: 11541950
+    Read Miss# : 7656076
+    Write Miss#: 3885874
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 7347646
+    DoA Eviction#   : 2300920
+         Peak Dirty#: 17923725
+Total Evicted Dirty#: 5076209
+
+libquantum-libquantum-libquantum-libquantum-lbm-lbm-lbm-lbm_32way_bypass0.out:
+Access#: 34556799
+zero reuse access#: 3153702
+    Write#: 22980799
+    Read# : 11576000
+Hit#: 27215439
+    Hit rate# : 0.787557
+    Read Hit# : 8100436
+    Write Hit#: 19115003
+Miss#: 7341360
+    Read Miss# : 3475564
+    Write Miss#: 3865796
+    Compulsory Miss#: 3781367
+    Conflict Miss#  : 3559993
+    DoA Eviction#   : 215735
+         Peak Dirty#: 19505859
+Total Evicted Dirty#: 3382585
+
+libquantum-libquantum-libquantum-libquantum-libquantum-libquantum-libquantum-libquantum_01way.out:
+Access#: 30224713
+zero reuse access#: 0
+    Write#: 9509388
+    Read# : 20715325
+Hit#: 26003014
+    Hit rate# : 0.860323
+    Read Hit# : 16493858
+    Write Hit#: 9509156
+Miss#: 4221699
+    Read Miss# : 4221467
+    Write Miss#: 232
+    Compulsory Miss#: 4190408
+    Conflict Miss#  : 31291
+    DoA Eviction#   : 20556
+         Peak Dirty#: 9150856
+Total Evicted Dirty#: 9312
+
+libquantum-libquantum-libquantum-libquantum-libquantum-libquantum-libquantum-libquantum_01way_bypass0.out:
+Access#: 30224676
+zero reuse access#: 37
+    Write#: 9509388
+    Read# : 20715288
+Hit#: 26003014
+    Hit rate# : 0.860324
+    Read Hit# : 16493858
+    Write Hit#: 9509156
+Miss#: 4221662
+    Read Miss# : 4221430
+    Write Miss#: 232
+    Compulsory Miss#: 4190376
+    Conflict Miss#  : 31286
+    DoA Eviction#   : 20551
+         Peak Dirty#: 9150856
+Total Evicted Dirty#: 9312
+
+libquantum-libquantum-libquantum-libquantum-libquantum-libquantum-libquantum-libquantum_32way.out:
+Access#: 30224713
+zero reuse access#: 0
+    Write#: 9509388
+    Read# : 20715325
+Hit#: 26002478
+    Hit rate# : 0.860305
+    Read Hit# : 16493322
+    Write Hit#: 9509156
+Miss#: 4222235
+    Read Miss# : 4222003
+    Write Miss#: 232
+    Compulsory Miss#: 4190408
+    Conflict Miss#  : 31827
+    DoA Eviction#   : 21456
+         Peak Dirty#: 9150584
+Total Evicted Dirty#: 9584
+
+libquantum-libquantum-libquantum-libquantum-libquantum-libquantum-libquantum-libquantum_32way_bypass0.out:
+Access#: 30224676
+zero reuse access#: 37
+    Write#: 9509388
+    Read# : 20715288
+Hit#: 26002478
+    Hit rate# : 0.860306
+    Read Hit# : 16493322
+    Write Hit#: 9509156
+Miss#: 4222198
+    Read Miss# : 4221966
+    Write Miss#: 232
+    Compulsory Miss#: 4190376
+    Conflict Miss#  : 31822
+    DoA Eviction#   : 21451
+         Peak Dirty#: 9150584
+Total Evicted Dirty#: 9584
+
+mcf-mcf-mcf-mcf-lbm-lbm-lbm-lbm_01way.out:
+Access#: 44016374
+zero reuse access#: 0
+    Write#: 21597446
+    Read# : 22418928
+Hit#: 26766457
+    Hit rate# : 0.608102
+    Read Hit# : 9375468
+    Write Hit#: 17390989
+Miss#: 17249917
+    Read Miss# : 13043460
+    Write Miss#: 4206457
+    Compulsory Miss#: 4194185
+    Conflict Miss#  : 13055732
+    DoA Eviction#   : 8833779
+         Peak Dirty#: 17858771
+Total Evicted Dirty#: 3738674
+
+mcf-mcf-mcf-mcf-lbm-lbm-lbm-lbm_01way_bypass0.out:
+Access#: 32783158
+zero reuse access#: 11233216
+    Write#: 21573343
+    Read# : 11209815
+Hit#: 27577971
+    Hit rate# : 0.841224
+    Read Hit# : 10152622
+    Write Hit#: 17425349
+Miss#: 5205187
+    Read Miss# : 1057193
+    Write Miss#: 4147994
+    Compulsory Miss#: 2889445
+    Conflict Miss#  : 2315742
+    DoA Eviction#   : 376660
+         Peak Dirty#: 19729505
+Total Evicted Dirty#: 1843694
+
+mcf-mcf-mcf-mcf-lbm-lbm-lbm-lbm_32way.out:
+Access#: 44016374
+zero reuse access#: 0
+    Write#: 21597446
+    Read# : 22418928
+Hit#: 26279742
+    Hit rate# : 0.597045
+    Read Hit# : 9272941
+    Write Hit#: 17006801
+Miss#: 17736632
+    Read Miss# : 13145987
+    Write Miss#: 4590645
+    Compulsory Miss#: 4194185
+    Conflict Miss#  : 13542447
+    DoA Eviction#   : 9031249
+         Peak Dirty#: 17410829
+Total Evicted Dirty#: 4186616
+
+mcf-mcf-mcf-mcf-lbm-lbm-lbm-lbm_32way_bypass0.out:
+Access#: 32783158
+zero reuse access#: 11233216
+    Write#: 21573343
+    Read# : 11209815
+Hit#: 27069764
+    Hit rate# : 0.825722
+    Read Hit# : 10020460
+    Write Hit#: 17049304
+Miss#: 5713394
+    Read Miss# : 1189355
+    Write Miss#: 4524039
+    Compulsory Miss#: 2890897
+    Conflict Miss#  : 2822497
+    DoA Eviction#   : 532616
+         Peak Dirty#: 19233474
+Total Evicted Dirty#: 2339725
+
+mcf-mcf-mcf-mcf-libquantum-libquantum-libquantum-libquantum_01way.out:
+Access#: 33391861
+zero reuse access#: 0
+    Write#: 6972500
+    Read# : 26419361
+Hit#: 20777836
+    Hit rate# : 0.622243
+    Read Hit# : 13807558
+    Write Hit#: 6970278
+Miss#: 12614025
+    Read Miss# : 12611803
+    Write Miss#: 2222
+    Compulsory Miss#: 4170230
+    Conflict Miss#  : 8443795
+    DoA Eviction#   : 5210797
+         Peak Dirty#: 4216006
+Total Evicted Dirty#: 2756494
+
+mcf-mcf-mcf-mcf-libquantum-libquantum-libquantum-libquantum_01way_bypass0.out:
+Access#: 26975658
+zero reuse access#: 6416203
+    Write#: 6972500
+    Read# : 20003158
+Hit#: 23221011
+    Hit rate# : 0.860814
+    Read Hit# : 16250004
+    Write Hit#: 6971007
+Miss#: 3754647
+    Read Miss# : 3753154
+    Write Miss#: 1493
+    Compulsory Miss#: 2332145
+    Conflict Miss#  : 1422502
+    DoA Eviction#   : 703879
+         Peak Dirty#: 6449388
+Total Evicted Dirty#: 523030
+
+mcf-mcf-mcf-mcf-libquantum-libquantum-libquantum-libquantum_32way.out:
+Access#: 33391861
+zero reuse access#: 0
+    Write#: 6972500
+    Read# : 26419361
+Hit#: 19208074
+    Hit rate# : 0.575232
+    Read Hit# : 12288335
+    Write Hit#: 6919739
+Miss#: 14183787
+    Read Miss# : 14131026
+    Write Miss#: 52761
+    Compulsory Miss#: 4170358
+    Conflict Miss#  : 10013429
+    DoA Eviction#   : 6402768
+         Peak Dirty#: 3801903
+Total Evicted Dirty#: 3170597
+
+mcf-mcf-mcf-mcf-libquantum-libquantum-libquantum-libquantum_32way_bypass0.out:
+Access#: 26975658
+zero reuse access#: 6416203
+    Write#: 6972500
+    Read# : 20003158
+Hit#: 20710676
+    Hit rate# : 0.767754
+    Read Hit# : 13777703
+    Write Hit#: 6932973
+Miss#: 6264982
+    Read Miss# : 6225455
+    Write Miss#: 39527
+    Compulsory Miss#: 2334421
+    Conflict Miss#  : 3930561
+    DoA Eviction#   : 1813474
+         Peak Dirty#: 5057107
+Total Evicted Dirty#: 1915393
+
+mcf-mcf-mcf-mcf-mcf-mcf-mcf-mcf_01way.out:
+Access#: 41380989
+zero reuse access#: 0
+    Write#: 4753685
+    Read# : 36627304
+Hit#: 24634187
+    Hit rate# : 0.595302
+    Read Hit# : 19885707
+    Write Hit#: 4748480
+Miss#: 16746802
+    Read Miss# : 16741597
+    Write Miss#: 5205
+    Compulsory Miss#: 4192454
+    Conflict Miss#  : 12554348
+    DoA Eviction#   : 10421662
+         Peak Dirty#: 3612144
+Total Evicted Dirty#: 1141541
+
+mcf-mcf-mcf-mcf-mcf-mcf-mcf-mcf_01way_bypass0.out:
+Access#: 28042031
+zero reuse access#: 13338958
+    Write#: 4753685
+    Read# : 23288346
+Hit#: 26633850
+    Hit rate# : 0.949783
+    Read Hit# : 21882395
+    Write Hit#: 4751455
+Miss#: 1408181
+    Read Miss# : 1405951
+    Write Miss#: 2230
+    Compulsory Miss#: 750597
+    Conflict Miss#  : 657584
+    DoA Eviction#   : 438436
+         Peak Dirty#: 4569456
+Total Evicted Dirty#: 184219
+
+mcf-mcf-mcf-mcf-mcf-mcf-mcf-mcf_32way.out:
+Access#: 41380989
+zero reuse access#: 0
+    Write#: 4753685
+    Read# : 36627304
+Hit#: 24299924
+    Hit rate# : 0.587224
+    Read Hit# : 19574480
+    Write Hit#: 4725444
+Miss#: 17081065
+    Read Miss# : 17052824
+    Write Miss#: 28241
+    Compulsory Miss#: 4192465
+    Conflict Miss#  : 12888600
+    DoA Eviction#   : 10289019
+         Peak Dirty#: 3210817
+Total Evicted Dirty#: 1542868
+
+mcf-mcf-mcf-mcf-mcf-mcf-mcf-mcf_32way_bypass0.out:
+Access#: 28042031
+zero reuse access#: 13338958
+    Write#: 4753685
+    Read# : 23288346
+Hit#: 26216202
+    Hit rate# : 0.93489
+    Read Hit# : 21481246
+    Write Hit#: 4734956
+Miss#: 1825829
+    Read Miss# : 1807100
+    Write Miss#: 18729
+    Compulsory Miss#: 765292
+    Conflict Miss#  : 1060537
+    DoA Eviction#   : 226256
+         Peak Dirty#: 3963818
+Total Evicted Dirty#: 789849
+
+mcf-mcf-mcf-mcf-milc-milc-milc-milc_01way.out:
+Access#: 25474799
+zero reuse access#: 0
+    Write#: 4890223
+    Read# : 20584576
+Hit#: 10944480
+    Hit rate# : 0.42962
+    Read Hit# : 7295204
+    Write Hit#: 3649276
+Miss#: 14530319
+    Read Miss# : 13289372
+    Write Miss#: 1240947
+    Compulsory Miss#: 4122606
+    Conflict Miss#  : 10407713
+    DoA Eviction#   : 7846363
+         Peak Dirty#: 3129396
+Total Evicted Dirty#: 1760829
+
+mcf-mcf-mcf-mcf-milc-milc-milc-milc_01way_bypass0.out:
+Access#: 18874267
+zero reuse access#: 6600532
+    Write#: 4834884
+    Read# : 14039383
+Hit#: 12113004
+    Hit rate# : 0.641773
+    Read Hit# : 8461881
+    Write Hit#: 3651123
+Miss#: 6761263
+    Read Miss# : 5577502
+    Write Miss#: 1183761
+    Compulsory Miss#: 2956152
+    Conflict Miss#  : 3805111
+    DoA Eviction#   : 2273924
+         Peak Dirty#: 3730116
+Total Evicted Dirty#: 1104768
+
+mcf-mcf-mcf-mcf-milc-milc-milc-milc_32way.out:
+Access#: 25474799
+zero reuse access#: 0
+    Write#: 4890223
+    Read# : 20584576
+Hit#: 10981978
+    Hit rate# : 0.431092
+    Read Hit# : 7417709
+    Write Hit#: 3564269
+Miss#: 14492821
+    Read Miss# : 13166867
+    Write Miss#: 1325954
+    Compulsory Miss#: 4191537
+    Conflict Miss#  : 10301284
+    DoA Eviction#   : 7172786
+         Peak Dirty#: 2654895
+Total Evicted Dirty#: 2235334
+
+mcf-mcf-mcf-mcf-milc-milc-milc-milc_32way_bypass0.out:
+Access#: 18874267
+zero reuse access#: 6600532
+    Write#: 4834884
+    Read# : 14039383
+Hit#: 12687821
+    Hit rate# : 0.672229
+    Read Hit# : 9093360
+    Write Hit#: 3594461
+Miss#: 6186446
+    Read Miss# : 4946023
+    Write Miss#: 1240423
+    Compulsory Miss#: 3524621
+    Conflict Miss#  : 2661825
+    DoA Eviction#   : 829086
+         Peak Dirty#: 3352736
+Total Evicted Dirty#: 1482147
+
+mcf-mcf-mcf-mcf-soplex-soplex-soplex-soplex_01way.out:
+Access#: 32032309
+zero reuse access#: 0
+    Write#: 4919694
+    Read# : 27112615
+Hit#: 14434317
+    Hit rate# : 0.450617
+    Read Hit# : 9928119
+    Write Hit#: 4506198
+Miss#: 17597992
+    Read Miss# : 17184496
+    Write Miss#: 413496
+    Compulsory Miss#: 4191387
+    Conflict Miss#  : 13406605
+    DoA Eviction#   : 10591381
+         Peak Dirty#: 3026869
+Total Evicted Dirty#: 2180950
+
+mcf-mcf-mcf-mcf-soplex-soplex-soplex-soplex_01way_bypass0.out:
+Access#: 19066919
+zero reuse access#: 12965390
+    Write#: 4919694
+    Read# : 14147225
+Hit#: 16312360
+    Hit rate# : 0.855532
+    Read Hit# : 11612297
+    Write Hit#: 4700063
+Miss#: 2754559
+    Read Miss# : 2534928
+    Write Miss#: 219631
+    Compulsory Miss#: 1942676
+    Conflict Miss#  : 811883
+    DoA Eviction#   : 370617
+         Peak Dirty#: 4643402
+Total Evicted Dirty#: 275985
+
+mcf-mcf-mcf-mcf-soplex-soplex-soplex-soplex_32way.out:
+Access#: 32032309
+zero reuse access#: 0
+    Write#: 4919694
+    Read# : 27112615
+Hit#: 14180917
+    Hit rate# : 0.442707
+    Read Hit# : 9714683
+    Write Hit#: 4466234
+Miss#: 17851392
+    Read Miss# : 17397932
+    Write Miss#: 453460
+    Compulsory Miss#: 4193613
+    Conflict Miss#  : 13657779
+    DoA Eviction#   : 10721613
+         Peak Dirty#: 2894455
+Total Evicted Dirty#: 2316534
+
+mcf-mcf-mcf-mcf-soplex-soplex-soplex-soplex_32way_bypass0.out:
+Access#: 19066919
+zero reuse access#: 12965390
+    Write#: 4919694
+    Read# : 14147225
+Hit#: 16011771
+    Hit rate# : 0.839767
+    Read Hit# : 11339031
+    Write Hit#: 4672740
+Miss#: 3055148
+    Read Miss# : 2808194
+    Write Miss#: 246954
+    Compulsory Miss#: 1969218
+    Conflict Miss#  : 1085930
+    DoA Eviction#   : 338947
+         Peak Dirty#: 4334000
+Total Evicted Dirty#: 585497
+
+mcf-mcf-milc-milc-libquantum-libquantum-lbm-lbm_01way.out:
+Access#: 30967058
+zero reuse access#: 0
+    Write#: 12718296
+    Read# : 18248762
+Hit#: 16091527
+    Hit rate# : 0.519634
+    Read Hit# : 5914700
+    Write Hit#: 10176827
+Miss#: 14875531
+    Read Miss# : 12334062
+    Write Miss#: 2541469
+    Compulsory Miss#: 4143416
+    Conflict Miss#  : 10732115
+    DoA Eviction#   : 6217914
+         Peak Dirty#: 8873038
+Total Evicted Dirty#: 3845258
+
+mcf-mcf-milc-milc-libquantum-libquantum-lbm-lbm_01way_bypass0.out:
+Access#: 25573150
+zero reuse access#: 5393908
+    Write#: 12653345
+    Read# : 12919805
+Hit#: 17465984
+    Hit rate# : 0.682981
+    Read Hit# : 7265207
+    Write Hit#: 10200777
+Miss#: 8107166
+    Read Miss# : 5654598
+    Write Miss#: 2452568
+    Compulsory Miss#: 3153267
+    Conflict Miss#  : 4953899
+    DoA Eviction#   : 1916549
+         Peak Dirty#: 10028830
+Total Evicted Dirty#: 2624512
+
+mcf-mcf-milc-milc-libquantum-libquantum-lbm-lbm_32way.out:
+Access#: 30967058
+zero reuse access#: 0
+    Write#: 12718296
+    Read# : 18248762
+Hit#: 14754894
+    Hit rate# : 0.476471
+    Read Hit# : 4871879
+    Write Hit#: 9883015
+Miss#: 16212164
+    Read Miss# : 13376883
+    Write Miss#: 2835281
+    Compulsory Miss#: 4172032
+    Conflict Miss#  : 12040132
+    DoA Eviction#   : 7042012
+         Peak Dirty#: 8225382
+Total Evicted Dirty#: 4492915
+
+mcf-mcf-milc-milc-libquantum-libquantum-lbm-lbm_32way_bypass0.out:
+Access#: 25573150
+zero reuse access#: 5393908
+    Write#: 12653345
+    Read# : 12919805
+Hit#: 15869833
+    Hit rate# : 0.620566
+    Read Hit# : 5941949
+    Write Hit#: 9927884
+Miss#: 9703317
+    Read Miss# : 6977856
+    Write Miss#: 2725461
+    Compulsory Miss#: 3279768
+    Conflict Miss#  : 6423549
+    DoA Eviction#   : 2630657
+         Peak Dirty#: 9111403
+Total Evicted Dirty#: 3541939
+
+mcf-mcf-milc-milc-soplex-soplex-lbm-lbm_01way.out:
+Access#: 29883054
+zero reuse access#: 0
+    Write#: 11462163
+    Read# : 18420891
+Hit#: 13679235
+    Hit rate# : 0.457759
+    Read Hit# : 4770176
+    Write Hit#: 8909059
+Miss#: 16203819
+    Read Miss# : 13650715
+    Write Miss#: 2553104
+    Compulsory Miss#: 4173854
+    Conflict Miss#  : 12029965
+    DoA Eviction#   : 8465338
+         Peak Dirty#: 8408252
+Total Evicted Dirty#: 3053912
+
+mcf-mcf-milc-milc-soplex-soplex-lbm-lbm_01way_bypass0.out:
+Access#: 21326519
+zero reuse access#: 8556535
+    Write#: 11412737
+    Read# : 9913782
+Hit#: 14925803
+    Hit rate# : 0.699871
+    Read Hit# : 5942316
+    Write Hit#: 8983487
+Miss#: 6400716
+    Read Miss# : 3971466
+    Write Miss#: 2429250
+    Compulsory Miss#: 3006545
+    Conflict Miss#  : 3394171
+    DoA Eviction#   : 1357241
+         Peak Dirty#: 9684168
+Total Evicted Dirty#: 1728569
+
+mcf-mcf-milc-milc-soplex-soplex-lbm-lbm_32way.out:
+Access#: 29883054
+zero reuse access#: 0
+    Write#: 11462163
+    Read# : 18420891
+Hit#: 13358787
+    Hit rate# : 0.447036
+    Read Hit# : 4690813
+    Write Hit#: 8667974
+Miss#: 16524267
+    Read Miss# : 13730078
+    Write Miss#: 2794189
+    Compulsory Miss#: 4192422
+    Conflict Miss#  : 12331845
+    DoA Eviction#   : 8403612
+         Peak Dirty#: 8026474
+Total Evicted Dirty#: 3435690
+
+mcf-mcf-milc-milc-soplex-soplex-lbm-lbm_32way_bypass0.out:
+Access#: 21326519
+zero reuse access#: 8556535
+    Write#: 11412737
+    Read# : 9913782
+Hit#: 14782873
+    Hit rate# : 0.693169
+    Read Hit# : 6003458
+    Write Hit#: 8779415
+Miss#: 6543646
+    Read Miss# : 3910324
+    Write Miss#: 2633322
+    Compulsory Miss#: 3164929
+    Conflict Miss#  : 3378717
+    DoA Eviction#   : 1030643
+         Peak Dirty#: 9311347
+Total Evicted Dirty#: 2101388
+
+mcf-mcf-milc-milc-soplex-soplex-libquantum-libquantum_01way.out:
+Access#: 26623187
+zero reuse access#: 0
+    Write#: 5962431
+    Read# : 20660756
+Hit#: 11064250
+    Hit rate# : 0.415587
+    Read Hit# : 5976305
+    Write Hit#: 5087945
+Miss#: 15558937
+    Read Miss# : 14684451
+    Write Miss#: 874486
+    Compulsory Miss#: 4073516
+    Conflict Miss#  : 11485421
+    DoA Eviction#   : 7592394
+         Peak Dirty#: 2855471
+Total Evicted Dirty#: 3254792
+
+mcf-mcf-milc-milc-soplex-soplex-libquantum-libquantum_01way_bypass0.out:
+Access#: 19929497
+zero reuse access#: 6693690
+    Write#: 5930990
+    Read# : 13998507
+Hit#: 12788925
+    Hit rate# : 0.641708
+    Read Hit# : 7661130
+    Write Hit#: 5127795
+Miss#: 7140572
+    Read Miss# : 6337377
+    Write Miss#: 803195
+    Compulsory Miss#: 2866801
+    Conflict Miss#  : 4273771
+    DoA Eviction#   : 2042287
+         Peak Dirty#: 4034219
+Total Evicted Dirty#: 1896769
+
+mcf-mcf-milc-milc-soplex-soplex-libquantum-libquantum_32way.out:
+Access#: 26623187
+zero reuse access#: 0
+    Write#: 5962431
+    Read# : 20660756
+Hit#: 9971873
+    Hit rate# : 0.374556
+    Read Hit# : 4966504
+    Write Hit#: 5005369
+Miss#: 16651314
+    Read Miss# : 15694252
+    Write Miss#: 957062
+    Compulsory Miss#: 4155083
+    Conflict Miss#  : 12496231
+    DoA Eviction#   : 8405015
+         Peak Dirty#: 2570067
+Total Evicted Dirty#: 3611271
+
+mcf-mcf-milc-milc-soplex-soplex-libquantum-libquantum_32way_bypass0.out:
+Access#: 19929497
+zero reuse access#: 6693690
+    Write#: 5930990
+    Read# : 13998507
+Hit#: 11391756
+    Hit rate# : 0.571603
+    Read Hit# : 6317968
+    Write Hit#: 5073788
+Miss#: 8537741
+    Read Miss# : 7680539
+    Write Miss#: 857202
+    Compulsory Miss#: 3051535
+    Conflict Miss#  : 5486206
+    DoA Eviction#   : 2678460
+         Peak Dirty#: 3341854
+Total Evicted Dirty#: 2589181
+
+mcf-mcf-soplex-soplex-libquantum-libquantum-lbm-lbm_01way.out:
+Access#: 34456200
+zero reuse access#: 0
+    Write#: 13516341
+    Read# : 20939859
+Hit#: 18194163
+    Hit rate# : 0.528037
+    Read Hit# : 6860498
+    Write Hit#: 11333665
+Miss#: 16262037
+    Read Miss# : 14079361
+    Write Miss#: 2182676
+    Compulsory Miss#: 4188890
+    Conflict Miss#  : 12073147
+    DoA Eviction#   : 7271780
+         Peak Dirty#: 9215356
+Total Evicted Dirty#: 4300985
+
+mcf-mcf-soplex-soplex-libquantum-libquantum-lbm-lbm_01way_bypass0.out:
+Access#: 26207186
+zero reuse access#: 8249014
+    Write#: 13502197
+    Read# : 12704989
+Hit#: 20415287
+    Hit rate# : 0.778996
+    Read Hit# : 8941086
+    Write Hit#: 11474201
+Miss#: 5791899
+    Read Miss# : 3763903
+    Write Miss#: 2027996
+    Compulsory Miss#: 2877918
+    Conflict Miss#  : 2913981
+    DoA Eviction#   : 729475
+         Peak Dirty#: 11534038
+Total Evicted Dirty#: 1968159
+
+mcf-mcf-soplex-soplex-libquantum-libquantum-lbm-lbm_32way.out:
+Access#: 34456200
+zero reuse access#: 0
+    Write#: 13516341
+    Read# : 20939859
+Hit#: 17522663
+    Hit rate# : 0.508549
+    Read Hit# : 6319876
+    Write Hit#: 11202787
+Miss#: 16933537
+    Read Miss# : 14619983
+    Write Miss#: 2313554
+    Compulsory Miss#: 4191779
+    Conflict Miss#  : 12741758
+    DoA Eviction#   : 7809697
+         Peak Dirty#: 8962635
+Total Evicted Dirty#: 4553706
+
+mcf-mcf-soplex-soplex-libquantum-libquantum-lbm-lbm_32way_bypass0.out:
+Access#: 26207186
+zero reuse access#: 8249014
+    Write#: 13502197
+    Read# : 12704989
+Hit#: 19620058
+    Hit rate# : 0.748652
+    Read Hit# : 8261085
+    Write Hit#: 11358973
+Miss#: 6587128
+    Read Miss# : 4443904
+    Write Miss#: 2143224
+    Compulsory Miss#: 2881919
+    Conflict Miss#  : 3705209
+    DoA Eviction#   : 1189981
+         Peak Dirty#: 11135813
+Total Evicted Dirty#: 2366384
+
+milc-milc-milc-milc-lbm-lbm-lbm-lbm_01way.out:
+Access#: 28536220
+zero reuse access#: 0
+    Write#: 17907979
+    Read# : 10628241
+Hit#: 14121658
+    Hit rate# : 0.494868
+    Read Hit# : 790283
+    Write Hit#: 13331375
+Miss#: 14414562
+    Read Miss# : 9837958
+    Write Miss#: 4576604
+    Compulsory Miss#: 4144457
+    Conflict Miss#  : 10270105
+    DoA Eviction#   : 6263477
+         Peak Dirty#: 14384989
+Total Evicted Dirty#: 3522991
+
+milc-milc-milc-milc-lbm-lbm-lbm-lbm_01way_bypass0.out:
+Access#: 24337421
+zero reuse access#: 4198799
+    Write#: 17838145
+    Read# : 6499276
+Hit#: 14736884
+    Hit rate# : 0.605524
+    Read Hit# : 1316375
+    Write Hit#: 13420509
+Miss#: 9600537
+    Read Miss# : 5182901
+    Write Miss#: 4417636
+    Compulsory Miss#: 3702595
+    Conflict Miss#  : 5897942
+    DoA Eviction#   : 2706492
+         Peak Dirty#: 15082892
+Total Evicted Dirty#: 2755251
+
+milc-milc-milc-milc-lbm-lbm-lbm-lbm_32way.out:
+Access#: 28536220
+zero reuse access#: 0
+    Write#: 17907979
+    Read# : 10628241
+Hit#: 13920122
+    Hit rate# : 0.487805
+    Read Hit# : 1252570
+    Write Hit#: 12667552
+Miss#: 14616098
+    Read Miss# : 9375671
+    Write Miss#: 5240427
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 10421794
+    DoA Eviction#   : 5418176
+         Peak Dirty#: 13548701
+Total Evicted Dirty#: 4359278
+
+milc-milc-milc-milc-lbm-lbm-lbm-lbm_32way_bypass0.out:
+Access#: 24337421
+zero reuse access#: 4198799
+    Write#: 17838145
+    Read# : 6499276
+Hit#: 14890467
+    Hit rate# : 0.611834
+    Read Hit# : 2062154
+    Write Hit#: 12828313
+Miss#: 9446954
+    Read Miss# : 4437122
+    Write Miss#: 5009832
+    Compulsory Miss#: 3948938
+    Conflict Miss#  : 5498016
+    DoA Eviction#   : 1516712
+         Peak Dirty#: 14417093
+Total Evicted Dirty#: 3421050
+
+milc-milc-milc-milc-libquantum-libquantum-libquantum-libquantum_01way.out:
+Access#: 23466045
+zero reuse access#: 0
+    Write#: 7347824
+    Read# : 16118221
+Hit#: 9971228
+    Hit rate# : 0.424922
+    Read Hit# : 3854606
+    Write Hit#: 6116622
+Miss#: 13494817
+    Read Miss# : 12263615
+    Write Miss#: 1231202
+    Compulsory Miss#: 3724325
+    Conflict Miss#  : 9770492
+    DoA Eviction#   : 5504873
+         Peak Dirty#: 3520988
+Total Evicted Dirty#: 3894437
+
+milc-milc-milc-milc-libquantum-libquantum-libquantum-libquantum_01way_bypass0.out:
+Access#: 22166270
+zero reuse access#: 1299775
+    Write#: 7267639
+    Read# : 14898631
+Hit#: 10337564
+    Hit rate# : 0.466365
+    Read Hit# : 4220881
+    Write Hit#: 6116683
+Miss#: 11828706
+    Read Miss# : 10677750
+    Write Miss#: 1150956
+    Compulsory Miss#: 3490942
+    Conflict Miss#  : 8337764
+    DoA Eviction#   : 4491162
+         Peak Dirty#: 3807809
+Total Evicted Dirty#: 3481458
+
+milc-milc-milc-milc-libquantum-libquantum-libquantum-libquantum_32way.out:
+Access#: 23466045
+zero reuse access#: 0
+    Write#: 7347824
+    Read# : 16118221
+Hit#: 8120737
+    Hit rate# : 0.346063
+    Read Hit# : 2043941
+    Write Hit#: 6076796
+Miss#: 15345308
+    Read Miss# : 14074280
+    Write Miss#: 1271028
+    Compulsory Miss#: 4174751
+    Conflict Miss#  : 11170557
+    DoA Eviction#   : 6277809
+         Peak Dirty#: 2901062
+Total Evicted Dirty#: 4743768
+
+milc-milc-milc-milc-libquantum-libquantum-libquantum-libquantum_32way_bypass0.out:
+Access#: 22166270
+zero reuse access#: 1299775
+    Write#: 7267639
+    Read# : 14898631
+Hit#: 8463368
+    Hit rate# : 0.381813
+    Read Hit# : 2366929
+    Write Hit#: 6096439
+Miss#: 13702902
+    Read Miss# : 12531702
+    Write Miss#: 1171200
+    Compulsory Miss#: 3893107
+    Conflict Miss#  : 9809795
+    DoA Eviction#   : 5374232
+         Peak Dirty#: 3224434
+Total Evicted Dirty#: 4246328
+
+milc-milc-milc-milc-milc-milc-milc-milc_01way.out:
+Access#: 17207161
+zero reuse access#: 0
+    Write#: 5023630
+    Read# : 12183531
+Hit#: 3945366
+    Hit rate# : 0.229286
+    Read Hit# : 845035
+    Write Hit#: 3100331
+Miss#: 13261795
+    Read Miss# : 11338496
+    Write Miss#: 1923299
+    Compulsory Miss#: 3883844
+    Conflict Miss#  : 9377951
+    DoA Eviction#   : 6932150
+         Peak Dirty#: 2825147
+Total Evicted Dirty#: 2201270
+
+milc-milc-milc-milc-milc-milc-milc-milc_01way_bypass0.out:
+Access#: 14528701
+zero reuse access#: 2678460
+    Write#: 4944305
+    Read# : 9584396
+Hit#: 4371019
+    Hit rate# : 0.300854
+    Read Hit# : 1270222
+    Write Hit#: 3100797
+Miss#: 10157682
+    Read Miss# : 8314174
+    Write Miss#: 1843508
+    Compulsory Miss#: 3529365
+    Conflict Miss#  : 6628317
+    DoA Eviction#   : 4478921
+         Peak Dirty#: 3072696
+Total Evicted Dirty#: 1876592
+
+milc-milc-milc-milc-milc-milc-milc-milc_32way.out:
+Access#: 17207161
+zero reuse access#: 0
+    Write#: 5023630
+    Read# : 12183531
+Hit#: 3318726
+    Hit rate# : 0.192869
+    Read Hit# : 278379
+    Write Hit#: 3040347
+Miss#: 13888435
+    Read Miss# : 11905152
+    Write Miss#: 1983283
+    Compulsory Miss#: 4194304
+    Conflict Miss#  : 9694131
+    DoA Eviction#   : 7098632
+         Peak Dirty#: 2421664
+Total Evicted Dirty#: 2607528
+
+milc-milc-milc-milc-milc-milc-milc-milc_32way_bypass0.out:
+Access#: 14528701
+zero reuse access#: 2678460
+    Write#: 4944305
+    Read# : 9584396
+Hit#: 4621506
+    Hit rate# : 0.318095
+    Read Hit# : 1546019
+    Write Hit#: 3075487
+Miss#: 9907195
+    Read Miss# : 8038377
+    Write Miss#: 1868818
+    Compulsory Miss#: 4166189
+    Conflict Miss#  : 5741006
+    DoA Eviction#   : 3266324
+         Peak Dirty#: 2731268
+Total Evicted Dirty#: 2217750
+
+milc-milc-milc-milc-soplex-soplex-soplex-soplex_01way.out:
+Access#: 21255119
+zero reuse access#: 0
+    Write#: 5332683
+    Read# : 15922436
+Hit#: 6136739
+    Hit rate# : 0.288718
+    Read Hit# : 2330772
+    Write Hit#: 3805967
+Miss#: 15118380
+    Read Miss# : 13591664
+    Write Miss#: 1526716
+    Compulsory Miss#: 4082127
+    Conflict Miss#  : 11036253
+    DoA Eviction#   : 7945323
+         Peak Dirty#: 2641107
+Total Evicted Dirty#: 2691576
+
+milc-milc-milc-milc-soplex-soplex-soplex-soplex_01way_bypass0.out:
+Access#: 15002765
+zero reuse access#: 6252354
+    Write#: 5296714
+    Read# : 9706051
+Hit#: 6936345
+    Hit rate# : 0.462338
+    Read Hit# : 3071408
+    Write Hit#: 3864937
+Miss#: 8066420
+    Read Miss# : 6634643
+    Write Miss#: 1431777
+    Compulsory Miss#: 3293227
+    Conflict Miss#  : 4773193
+    DoA Eviction#   : 2719207
+         Peak Dirty#: 3496811
+Total Evicted Dirty#: 1799901
+
+milc-milc-milc-milc-soplex-soplex-soplex-soplex_32way.out:
+Access#: 21255119
+zero reuse access#: 0
+    Write#: 5332683
+    Read# : 15922436
+Hit#: 5798501
+    Hit rate# : 0.272805
+    Read Hit# : 2059668
+    Write Hit#: 3738833
+Miss#: 15456618
+    Read Miss# : 13862768
+    Write Miss#: 1593850
+    Compulsory Miss#: 4193462
+    Conflict Miss#  : 11263156
+    DoA Eviction#   : 7992778
+         Peak Dirty#: 2455381
+Total Evicted Dirty#: 2877302
+
+milc-milc-milc-milc-soplex-soplex-soplex-soplex_32way_bypass0.out:
+Access#: 15002765
+zero reuse access#: 6252354
+    Write#: 5296714
+    Read# : 9706051
+Hit#: 7118146
+    Hit rate# : 0.474456
+    Read Hit# : 3281385
+    Write Hit#: 3836761
+Miss#: 7884619
+    Read Miss# : 6424666
+    Write Miss#: 1459953
+    Compulsory Miss#: 3745553
+    Conflict Miss#  : 4139066
+    DoA Eviction#   : 1941904
+         Peak Dirty#: 3345677
+Total Evicted Dirty#: 1951035
+
+milc-milc-soplex-soplex-libquantum-libquantum-lbm-lbm_01way.out:
+Access#: 28348145
+zero reuse access#: 0
+    Write#: 12443314
+    Read# : 15904831
+Hit#: 13127465
+    Hit rate# : 0.46308
+    Read Hit# : 3180955
+    Write Hit#: 9946510
+Miss#: 15220680
+    Read Miss# : 12723876
+    Write Miss#: 2496804
+    Compulsory Miss#: 4101017
+    Conflict Miss#  : 11119663
+    DoA Eviction#   : 6479253
+         Peak Dirty#: 8244715
+Total Evicted Dirty#: 4198599
+
+milc-milc-soplex-soplex-libquantum-libquantum-lbm-lbm_01way_bypass0.out:
+Access#: 22879134
+zero reuse access#: 5469011
+    Write#: 12402646
+    Read# : 10476488
+Hit#: 14407461
+    Hit rate# : 0.629721
+    Read Hit# : 4421449
+    Write Hit#: 9986012
+Miss#: 8471673
+    Read Miss# : 6055039
+    Write Miss#: 2416634
+    Compulsory Miss#: 3324405
+    Conflict Miss#  : 5147268
+    DoA Eviction#   : 2044715
+         Peak Dirty#: 9586280
+Total Evicted Dirty#: 2816364
+
+milc-milc-soplex-soplex-libquantum-libquantum-lbm-lbm_32way.out:
+Access#: 28348145
+zero reuse access#: 0
+    Write#: 12443314
+    Read# : 15904831
+Hit#: 11998011
+    Hit rate# : 0.423238
+    Read Hit# : 2213794
+    Write Hit#: 9784217
+Miss#: 16350134
+    Read Miss# : 13691037
+    Write Miss#: 2659097
+    Compulsory Miss#: 4176926
+    Conflict Miss#  : 12173208
+    DoA Eviction#   : 7163204
+         Peak Dirty#: 7776703
+Total Evicted Dirty#: 4666615
+
+milc-milc-soplex-soplex-libquantum-libquantum-lbm-lbm_32way_bypass0.out:
+Access#: 22879134
+zero reuse access#: 5469011
+    Write#: 12402646
+    Read# : 10476488
+Hit#: 13128352
+    Hit rate# : 0.573813
+    Read Hit# : 3280155
+    Write Hit#: 9848197
+Miss#: 9750782
+    Read Miss# : 7196333
+    Write Miss#: 2554449
+    Compulsory Miss#: 3457670
+    Conflict Miss#  : 6293112
+    DoA Eviction#   : 2592751
+         Peak Dirty#: 8925827
+Total Evicted Dirty#: 3476817
+
+soplex-soplex-soplex-soplex-lbm-lbm-lbm-lbm_01way.out:
+Access#: 36364459
+zero reuse access#: 0
+    Write#: 20754894
+    Read# : 15609565
+Hit#: 18595946
+    Hit rate# : 0.511377
+    Read Hit# : 2261463
+    Write Hit#: 16334483
+Miss#: 17768513
+    Read Miss# : 13348102
+    Write Miss#: 4420411
+    Compulsory Miss#: 4193350
+    Conflict Miss#  : 13575163
+    DoA Eviction#   : 9020311
+         Peak Dirty#: 16356615
+Total Evicted Dirty#: 4398278
+
+soplex-soplex-soplex-soplex-lbm-lbm-lbm-lbm_01way_bypass0.out:
+Access#: 26488380
+zero reuse access#: 9876079
+    Write#: 20734641
+    Read# : 5753739
+Hit#: 19750194
+    Hit rate# : 0.745617
+    Read Hit# : 3099385
+    Write Hit#: 16650809
+Miss#: 6738186
+    Read Miss# : 2654354
+    Write Miss#: 4083832
+    Compulsory Miss#: 3276579
+    Conflict Miss#  : 3461607
+    DoA Eviction#   : 646547
+         Peak Dirty#: 18047244
+Total Evicted Dirty#: 2687392
+
+soplex-soplex-soplex-soplex-lbm-lbm-lbm-lbm_32way.out:
+Access#: 36364459
+zero reuse access#: 0
+    Write#: 20754894
+    Read# : 15609565
+Hit#: 18543434
+    Hit rate# : 0.509933
+    Read Hit# : 2243053
+    Write Hit#: 16300381
+Miss#: 17821025
+    Read Miss# : 13366512
+    Write Miss#: 4454513
+    Compulsory Miss#: 4194242
+    Conflict Miss#  : 13626783
+    DoA Eviction#   : 9027147
+         Peak Dirty#: 16296042
+Total Evicted Dirty#: 4458851
+
+soplex-soplex-soplex-soplex-lbm-lbm-lbm-lbm_32way_bypass0.out:
+Access#: 26488380
+zero reuse access#: 9876079
+    Write#: 20734641
+    Read# : 5753739
+Hit#: 19704766
+    Hit rate# : 0.743902
+    Read Hit# : 3091987
+    Write Hit#: 16612779
+Miss#: 6783614
+    Read Miss# : 2661752
+    Write Miss#: 4121862
+    Compulsory Miss#: 3278739
+    Conflict Miss#  : 3504875
+    DoA Eviction#   : 659781
+         Peak Dirty#: 18005525
+Total Evicted Dirty#: 2729111
+
+soplex-soplex-soplex-soplex-libquantum-libquantum-libquantum-libquantum_01way.out:
+Access#: 28388009
+zero reuse access#: 0
+    Write#: 7168533
+    Read# : 21219476
+Hit#: 13382647
+    Hit rate# : 0.471419
+    Read Hit# : 6587258
+    Write Hit#: 6795389
+Miss#: 15005362
+    Read Miss# : 14632218
+    Write Miss#: 373144
+    Compulsory Miss#: 4178467
+    Conflict Miss#  : 10826895
+    DoA Eviction#   : 6100318
+         Peak Dirty#: 3324277
+Total Evicted Dirty#: 4474871
+
+soplex-soplex-soplex-soplex-libquantum-libquantum-libquantum-libquantum_01way_bypass0.out:
+Access#: 21639579
+zero reuse access#: 6748430
+    Write#: 7168533
+    Read# : 14471046
+Hit#: 15975529
+    Hit rate# : 0.738255
+    Read Hit# : 9102436
+    Write Hit#: 6873093
+Miss#: 5664050
+    Read Miss# : 5368610
+    Write Miss#: 295440
+    Compulsory Miss#: 3173400
+    Conflict Miss#  : 2490650
+    DoA Eviction#   : 1022699
+         Peak Dirty#: 5863389
+Total Evicted Dirty#: 1305144
+
+soplex-soplex-soplex-soplex-libquantum-libquantum-libquantum-libquantum_32way.out:
+Access#: 28388009
+zero reuse access#: 0
+    Write#: 7168533
+    Read# : 21219476
+Hit#: 12847868
+    Hit rate# : 0.452581
+    Read Hit# : 6065459
+    Write Hit#: 6782409
+Miss#: 15540141
+    Read Miss# : 15154017
+    Write Miss#: 386124
+    Compulsory Miss#: 4190619
+    Conflict Miss#  : 11349522
+    DoA Eviction#   : 6159789
+         Peak Dirty#: 3321233
+Total Evicted Dirty#: 4932932
+
+soplex-soplex-soplex-soplex-libquantum-libquantum-libquantum-libquantum_32way_bypass0.out:
+Access#: 21639579
+zero reuse access#: 6748430
+    Write#: 7168533
+    Read# : 14471046
+Hit#: 15917515
+    Hit rate# : 0.735574
+    Read Hit# : 9045395
+    Write Hit#: 6872120
+Miss#: 5722064
+    Read Miss# : 5425651
+    Write Miss#: 296413
+    Compulsory Miss#: 3175204
+    Conflict Miss#  : 2546860
+    DoA Eviction#   : 1031467
+         Peak Dirty#: 5829096
+Total Evicted Dirty#: 1339437
+
+soplex-soplex-soplex-soplex-soplex-soplex-soplex-soplex_01way.out:
+Access#: 26251764
+zero reuse access#: 0
+    Write#: 5307482
+    Read# : 20944282
+Hit#: 8682808
+    Hit rate# : 0.330751
+    Read Hit# : 4315291
+    Write Hit#: 4367517
+Miss#: 17568956
+    Read Miss# : 16628991
+    Write Miss#: 939965
+    Compulsory Miss#: 4191694
+    Conflict Miss#  : 13377262
+    DoA Eviction#   : 10041846
+         Peak Dirty#: 3680430
+Total Evicted Dirty#: 3036472
+
+soplex-soplex-soplex-soplex-soplex-soplex-soplex-soplex_01way_bypass0.out:
+Access#: 14136776
+zero reuse access#: 12114988
+    Write#: 5307482
+    Read# : 8829294
+Hit#: 9965872
+    Hit rate# : 0.704961
+    Read Hit# : 5248838
+    Write Hit#: 4717034
+Miss#: 4170904
+    Read Miss# : 3580456
+    Write Miss#: 590448
+    Compulsory Miss#: 2840767
+    Conflict Miss#  : 1330137
+    DoA Eviction#   : 448878
+         Peak Dirty#: 4475160
+Total Evicted Dirty#: 832320
+
+soplex-soplex-soplex-soplex-soplex-soplex-soplex-soplex_32way.out:
+Access#: 26251764
+zero reuse access#: 0
+    Write#: 5307482
+    Read# : 20944282
+Hit#: 8627683
+    Hit rate# : 0.328652
+    Read Hit# : 4268058
+    Write Hit#: 4359625
+Miss#: 17624081
+    Read Miss# : 16676224
+    Write Miss#: 947857
+    Compulsory Miss#: 4194157
+    Conflict Miss#  : 13429924
+    DoA Eviction#   : 10076739
+         Peak Dirty#: 3690121
+Total Evicted Dirty#: 3060806
+
+soplex-soplex-soplex-soplex-soplex-soplex-soplex-soplex_32way_bypass0.out:
+Access#: 14136776
+zero reuse access#: 12114988
+    Write#: 5307482
+    Read# : 8829294
+Hit#: 9955287
+    Hit rate# : 0.704212
+    Read Hit# : 5229841
+    Write Hit#: 4725446
+Miss#: 4181489
+    Read Miss# : 3599453
+    Write Miss#: 582036
+    Compulsory Miss#: 2866409
+    Conflict Miss#  : 1315080
+    DoA Eviction#   : 427170
+         Peak Dirty#: 4468219
+Total Evicted Dirty#: 839261
+

@@ -1034,7 +1034,7 @@ int main (int argc, char ** argv)
 
 
   // dump output data
-  dump_output();
+  //dump_output();
   
   
   return 0;

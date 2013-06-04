@@ -945,6 +945,8 @@ int main (int argc, char ** argv)
       break;
     }
     access.push_back(0);
+
+/*
     // verify the sanity of data
     if (!sanity_check(isrd, coreid, addr))
     {
@@ -953,7 +955,7 @@ int main (int argc, char ** argv)
     }
     //cout<<"isrd: "<<isrd<<" coreid: "<<coreid<<" addr: "<<addr<<" usetime: "<<usetime<<endl;
 
-/*
+
     if (virtualsets)
       virtualsets->access_update((unsigned int)addr);
     

@@ -923,7 +923,7 @@ int main (int argc, char ** argv)
   parse_input(argc,argv);
   
   // open trace file
-  TRACE_FILE.append("_usage"); //include reuse info
+  //TRACE_FILE.append("_usage"); //include reuse info
 
   trace_file.open(TRACE_FILE.c_str());
   if (! trace_file.is_open())

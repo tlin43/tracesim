@@ -49,7 +49,7 @@ do
 	echo "#PBS -l nodes=1:ppn=1" >> ${TRACE_FILE[$i]}.pbs
 	echo "#PBS -l walltime=1:00:00" >> ${TRACE_FILE[$i]}.pbs
 
-	echo "./tracesim.o --cache-size 256 --cache-assoc 32 --core-num 8 --scheme 0 --trace-file /nv/hp20/tlin43/data/trace-with-eip-and-ifetch/${TRACE_FILE[$i]}.dramcache_trace --output-file ./nv/hp20/tlin43/tracesim/output/${TRACE_FILE[$i]}_32way.out" >> ${TRACE_FILE[$i]}.pbs
+	echo "./tracesim.o --cache-size 256 --cache-assoc 32 --core-num 8 --scheme 0 --trace-file /nv/hp20/tlin43/data/trace-with-eip-and-ifetch/${TRACE_FILE[$i]}.dramcache_trace --output-file /nv/hp20/tlin43/tracesim/output/${TRACE_FILE[$i]}_32way.out" >> ${TRACE_FILE[$i]}.pbs
 
 	
 
